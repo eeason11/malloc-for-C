@@ -1,5 +1,5 @@
 # malloc-for-C
-Implemented a dynamic memory allocator in C capable of the standard malloc, free, realloc, and calloc operations.
+Implemented a dynamic memory allocator from scratch in C capable of the standard malloc, free, realloc, and calloc operations.
 All code I wrote is contained in the file mm.c. All other files developed by Caltech Computing Systems course TAs.
 
 ### Full Description:
