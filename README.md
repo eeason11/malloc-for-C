@@ -1,6 +1,6 @@
 # malloc-for-C
 Implemented a dynamic memory allocator in C capable of the standard malloc, free, realloc, and calloc operations.
-All code I wrote is contained in the file mm.c
+All code I wrote is contained in the file mm.c. All other files developed by Computing Systems course TAs.
 
 ## Full Description:
 ### This program is a dynamic memory manager that works under 16 byte alignment and heap sizes of 2^64 bytes and smaller. 
